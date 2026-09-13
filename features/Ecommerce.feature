@@ -10,3 +10,4 @@ Scenario: Placing the order
     Examples:
       | username                    | password  |
       | urmailvikas139@gmail.com    | Test@123  |
+      | itsuser123@gmail.com        | Abcd@123  |   
